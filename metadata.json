@@ -1,0 +1,6 @@
+{
+  "name": "Bhan's Construction",
+  "description": "Premium construction, interior design, and architecture planning services. Discover modern luxury real estate projects, client testimonials, and consultancies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
